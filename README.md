@@ -22,7 +22,7 @@ A real-time chatroom application built with PHP, JavaScript, and MySQL.
 2. Import the `chatroom.sql` file into your MySQL database.
 3. Configure the database connection in `includes/config.php`.
 4. Start the Apache and MySQL server.
-5. Open the project in your browser via `http://localhost/ch-ro-pr/`.
+5. Open the project in your browser via `http://localhost/CHATROOM/`.
 
 ## Usage
 - Register an account.
